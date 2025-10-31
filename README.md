@@ -12,7 +12,7 @@
 
 <p align="left">
   I'm a Computer Science student at NAU set to graduate Spring 2028.<br><br>
-  • Currently learning C as my foundation for data structures and algorithms.<br>
+  • Currently I'm learning C. <br>
   • In my free time, I enjoy reading, lifting, and playing guitar.
 </p>
 
